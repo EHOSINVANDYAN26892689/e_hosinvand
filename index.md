@@ -1,30 +1,30 @@
 
-### Anahita Taheri
+### eshsgh hosinvand
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
-
++ name: eshagh
++ last name : hosinvand
++ Date of birth : 1993/April/12
++ I am a Bankr and Software engineering student
++ location : Khuzestan , I.R.Iran
++ location University : Tehran , I.R.Iran
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
++ Software programming
 + translating
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma: Amirkabir Computer High School
++ Bachelor of Science: Software Engineering
+_ Payame Noor Shahreri University
 
 ### language
 
@@ -36,15 +36,16 @@ _ payam Noor University of North
 
 ---
 + Trade
-+ Studing historical books
++ Watch historical movies
 + travel 
-+ playing volleyball
++ playing Soccer
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
-
++ I have a background in the construction industry
++ I work in a bank
++ I did a mobile repair
 
 
 
